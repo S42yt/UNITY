@@ -21,7 +21,7 @@
     "@distube/spotify": "^2.0.2",
     "@distube/yt-dlp": "^2.0.1",
     "are-we-there-yet": "^4.0.2",
-    "axios": "^1.7.9",
+    "axios": "^1.8.2",
     "canvas": "^3.0.0",
     "discord-api-types": "^0.37.110",
     "discord.js": "^14.14.1",
